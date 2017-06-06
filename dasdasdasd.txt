@@ -1,0 +1,47 @@
+[33mcommit 47f45b5459f6b6126ab991f3c16e459990ae7b2e[m
+Author: = <=>
+Date:   Tue Jun 6 12:41:00 2017 -0300
+
+    como sai daqui meu deus
+
+:100644 100644 5bbb051... 8f4835d... M	index.html
+
+[33mcommit 888681e33294bacbc5508ef94367647468247567[m
+Author: = <=>
+Date:   Tue Jun 6 12:38:01 2017 -0300
+
+    teste denovo
+
+:100644 100644 b2f9369... 5bbb051... M	index.html
+
+[33mcommit 3c04afa39252085c5f60f531467ed68ae25c1fa4[m
+Author: = <=>
+Date:   Tue Jun 6 12:36:04 2017 -0300
+
+    teste denovo
+
+:100644 100644 cb6851f... b2f9369... M	index.html
+
+[33mcommit 45635ccd460d3a516d999b6e48695d30fdaa8a00[m
+Author: = <=>
+Date:   Tue Jun 6 12:30:00 2017 -0300
+
+    teste
+
+:100644 100644 efcdcdf... cb6851f... M	index.html
+
+[33mcommit 5e0e9ada380632c658ef6acae7b15a9fffdc1cc0[m
+Author: = <=>
+Date:   Tue Jun 6 12:27:46 2017 -0300
+
+    arquivo alterado
+
+:100644 100644 90531a4... efcdcdf... M	index.html
+
+[33mcommit 9a2ef4cab5a02d5461486a1724a4654f23297710[m
+Author: = <=>
+Date:   Tue Jun 6 12:24:01 2017 -0300
+
+    criando um projeto
+
+:000000 100644 0000000... 90531a4... A	index.html
